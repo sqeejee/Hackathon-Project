@@ -41,7 +41,7 @@ function App() {
 
       <div class="top-bar"> 
               <h1>
-                SPAW
+                SYNONIMATION
               </h1>
           </div>
       
@@ -62,4 +62,3 @@ export default App;
 
 
   
-
