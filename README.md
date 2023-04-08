@@ -7,4 +7,4 @@ Their guesses will be scored 1-100, based on how close their entire phrase was i
 
 This project involved us merging all our previous nodejs knowledge and learning how to use NLPCloud
 
-A super fun project and awesome learning experience!!!
+A super fun project and awesome learning experience!!
